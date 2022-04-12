@@ -9,8 +9,8 @@ module.exports = {
     dasiyui: {
       themes: [
         'cupcake',
-        'business',
-        'night',
+        'dracula',
+        'bumblebee',
         'forest',
         'synthwave',
         'luxury',
